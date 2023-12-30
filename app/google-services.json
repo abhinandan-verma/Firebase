@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325643900266",
+    "project_id": "fir-21ddb",
+    "storage_bucket": "fir-21ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325643900266:android:f4cdb3b8fe40d260b44113",
+        "android_client_info": {
+          "package_name": "com.abhicoding.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlsrA1ka0-vPe4H5FoxvgSmvNRgbgoBp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
